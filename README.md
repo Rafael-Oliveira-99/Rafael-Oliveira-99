@@ -1,16 +1,33 @@
-## Hi there 👋
+# Rafael Oliveira
 
-<!--
-**Rafael-Oliveira-99/Rafael-Oliveira-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, me chamo Rafael.
+Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** da Etec.
 
-Here are some ideas to get you started:
+## Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+## Sobre mim
+
+Atualmente estou focado em aprender programação e desenvolvimento de software.
+Tenho interesse em melhorar minhas habilidades em lógica de programação, desenvolvimento de aplicações e boas práticas de código.
+
+## Objetivos
+
+* Aprender cada vez mais sobre desenvolvimento de software
+* Criar projetos práticos para consolidar conhecimento
+* Evoluir constantemente como desenvolvedor
+
+## Estatísticas do GitHub
+
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael_oliveira-99&show_icons=true&theme=github_dark)
+
+## Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael_oliveira-99&layout=compact&theme=github_dark)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
