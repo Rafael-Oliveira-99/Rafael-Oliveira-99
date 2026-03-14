@@ -22,11 +22,11 @@ Tenho interesse em melhorar minhas habilidades em lógica de programação, dese
 
 ## Estatísticas do GitHub
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael_oliveira-99&show_icons=true&theme=github_dark)
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Oliveira-99&show_icons=true&theme=github_dark)
 
 ## Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael_oliveira-99&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Oliveira-99&layout=compact&theme=github_dark)
 
 ---
 
