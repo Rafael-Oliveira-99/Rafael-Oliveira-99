@@ -28,6 +28,12 @@ Tenho interesse em melhorar minhas habilidades em lógica de programação, dese
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Oliveira-99&layout=compact&theme=github_dark)
 
+## Contato
+
+<a href="mailto:rafaelmma99@gmail.com">
+<img src="https://img.shields.io/badge/Email-Enviar%20mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 ---
 
 ⭐ Obrigado por visitar meu perfil!
